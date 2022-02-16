@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tatianakomar/weather-frontend/static/css/main.03fb8a79.css",
+    "main.js": "/tatianakomar/weather-frontend/static/js/main.3afef131.js",
+    "static/js/787.4b7e4994.chunk.js": "/tatianakomar/weather-frontend/static/js/787.4b7e4994.chunk.js",
+    "static/media/current_night.png": "/tatianakomar/weather-frontend/static/media/current_night.720ac3f61e7019b8684f.png",
+    "static/media/current_day.png": "/tatianakomar/weather-frontend/static/media/current_day.df6e238012ce7fc38b1f.png",
+    "static/media/roboto-slab-700.woff": "/tatianakomar/weather-frontend/static/media/roboto-slab-700.7cb09bef6990e87c9e2b.woff",
+    "static/media/roboto-slab-400-regular.woff": "/tatianakomar/weather-frontend/static/media/roboto-slab-400-regular.b46b2661355d7b1e9e9e.woff",
+    "static/media/current_location.png": "/tatianakomar/weather-frontend/static/media/current_location.f871ced029c165263f4c.png",
+    "index.html": "/tatianakomar/weather-frontend/index.html",
+    "main.03fb8a79.css.map": "/tatianakomar/weather-frontend/static/css/main.03fb8a79.css.map",
+    "main.3afef131.js.map": "/tatianakomar/weather-frontend/static/js/main.3afef131.js.map",
+    "787.4b7e4994.chunk.js.map": "/tatianakomar/weather-frontend/static/js/787.4b7e4994.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03fb8a79.css",
+    "static/js/main.3afef131.js"
+  ]
+}
