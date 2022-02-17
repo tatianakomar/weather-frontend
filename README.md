@@ -41,7 +41,7 @@ View the project at [http://localhost:3000](`http://localhost:3000`)
 
 ## Demo
 
-To run demo visit [cors-anywhere](https://cors-anywhere.herokuapp.com/corsdemo), push **Request temporary access to the demo server** button.
+To run demo visit [https://cors-anywhere.herokuapp.com/corsdemo](https://cors-anywhere.herokuapp.com/corsdemo), push **Request temporary access to the demo server** button.
 
 Demo published at [https://tatianakomar.github.io/weather-frontend/](https://tatianakomar.github.io/weather-frontend/)
 
