@@ -1,6 +1,6 @@
 // api.openweathermap has CORS policy, that is why for gh-pages the proxy server(https://cors-anywhere.herokuapp.com) is required
-const baseUrl = "https://cors-anywhere.herokuapp.com/https://api.openweathermap.org/data/2.5/onecall";
-// const baseUrl = "http://localhost:3005/onecall";
+//const baseUrl = "https://cors-anywhere.herokuapp.com/https://api.openweathermap.org/data/2.5/onecall";
+const baseUrl = "http://localhost:3005/onecall";
 const KEY = "c8221653a6d201f0c05ed41ce6f0bc61";
 const lat = "40.71";
 const lon = "-74";
