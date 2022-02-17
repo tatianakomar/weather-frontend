@@ -1,0 +1,24 @@
+.forecast {
+    min-width: 240px;
+    max-width: 450px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.forecast__title {
+    font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #1A1B22;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.forecast__chart {
+    width: 75%;
+    padding: 0 20px;
+}
